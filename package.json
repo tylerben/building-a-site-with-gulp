@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/tylerben/treehouse-project-8#readme",
   "devDependencies": {
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.6.1",
     "gulp-csso": "^3.0.1",
     "gulp-imagemin": "^4.1.0",
     "gulp-sass": "^4.0.1",
