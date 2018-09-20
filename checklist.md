@@ -9,6 +9,8 @@
 - [x] As a developer, I should be able to run the gulp clean command at the command line to delete all of the files and folders in the dist folder.
 - [x] As a developer, I should be able to run the gulp build command at the command line to run the clean, scripts, styles, and images tasks with confidence that the clean task completes before the other commands.
 - [x] As a developer, I should be able to run the gulp command at the command line to run the build task and serve my project using a local web server.
+- [ ] Copy index.html to dist folder and ensure links all work
+- [ ] Copy icons folder to dist
 
 #### Exceeds Expectations
-- [ ] As a developer, when I run the default gulp command, it should continuously watch for changes to any .scss file in my project. When there is a change to one of the .scss files, the gulp styles command is run and the files are compiled, concatenated, and minified to the dist folder. My project should then reload in the browser, displaying the changes.
+- [x] As a developer, when I run the default gulp command, it should continuously watch for changes to any .scss file in my project. When there is a change to one of the .scss files, the gulp styles command is run and the files are compiled, concatenated, and minified to the dist folder. My project should then reload in the browser, displaying the changes.
